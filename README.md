@@ -89,3 +89,4 @@
 - Shubham Jaiswal, 'Python + SQL + Informatica Powercenter' , Programmer Analyst
 - Jayant Dhundhara, `C++ + Laravel + SQL` Programmer Analyst
 - Himanshu Yadav, `Javascript + C# + SQL` Programmer Analyst
+- Khadija,`JAVA full stack+ JAVASCRIPT + MERN `,Full Stack Web Developer Intern at CepiaLabs.
